@@ -2,7 +2,7 @@
         .fixed-panel {
             min-height: 400px;
             max-height: 400px;
-            background-color: #20404f;
+            background-color: #39FF14;
             color: white;
             overflow: auto;
         }
@@ -24,17 +24,17 @@
             box-shadow: 0 1px 1px rgba(0,0,0,.05);
         }
         .panel-info {
-            border-color: #0f3142;
+            border-color: #39FF14;
         }
         .panel-info>.panel-heading {
             color: white;
-            background-color: #0f3142;
-            border-color: #0f3142;
+            background-color: #39FF14;
+            border-color: #39FF14;
         }
         .panel-footer {
             padding: 10px 15px;
-            background-color: #0f3142;
-            border-top: 1px solid #0f3142;
+            background-color: #39FF14;
+            border-top: 1px solid #39FF14;
             border-bottom-right-radius: 3px;
             border-bottom-left-radius: 3px
         }
