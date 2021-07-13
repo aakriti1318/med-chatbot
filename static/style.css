@@ -45,6 +45,6 @@
             border-bottom-left-radius: 3px
         }
         body {
-            background: linear-gradient(rgb(0, 0, 0),rgb(7, 7, 7)), rgb(34, 114, 206); /* Old browsers */
+            background-color #fff; /* Old browsers */
         }
         </style>
