@@ -1,7 +1,6 @@
-<style type="text/css">
         .fixed-panel {
-            min-height: 400px;
-            max-height: 400px;
+            min-height: 500px;
+            max-height: 500px;
             background-color: #19313c;
             color: white;
             overflow: auto;
@@ -16,11 +15,25 @@
             line-break: strict;
         }
         h1{
-            text-align: center;
-            font-size: larger;
+            margin-left: 200px;
+            font-size: 50px;
             font-style: inherit;
             font-weight: bold;
-            font-color: yellow;
+            color: white;
+        }
+        .hello{
+            align-items: center;
+            margin-top: 10px;
+            margin-left: 300px;
+        }
+        .botText{
+            font-size: 20px;
+            font-weight: bold;
+            font-family: Georgia, 'Times New Roman', Times, serif;
+        }
+        .userInput{
+            margin-left: 50px;
+            color: green;
         }
         .panel {
             margin-bottom: 20px;
@@ -46,6 +59,8 @@
             border-bottom-left-radius: 3px
         }
         body {
-            background-color: #0c2735 ; /* Old browsers */
+            background: url('../static/health.jpg');
+            background-repeat:no-repeat;
+            background-size: cover;
+            align-items: center;
         }
-        </style>
